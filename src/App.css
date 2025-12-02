@@ -10,7 +10,6 @@
 .embla__slide {
     flex-shrink: 0;
     width: 30%;
-  border: 1px dotted lightgreen;
   margin-bottom: 20px;
   height: 200px;
   

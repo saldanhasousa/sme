@@ -9,7 +9,8 @@ const EmblaCarousel = () => {
   
         <div className="embla" ref={emblaRef}>
           
-          <div className="embla__container *:[&_div]:h-[60%] *:[&_div]:*:w-full *:[&_div]:*:h-full ">
+          <div className="embla__container *:[&_div]:h-[60%] *:[&_div]:*:w-full *:[&_div]:*:h-full *:bg-gray-200 *:rounded-lg">
+
             <div className="embla__slide ">
                 <div  className='cont_img'>
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44D-vqC_gjDOPPAtfnJDp6Au8fTVxcDB-vMeeEn2kYdWakZBD15zciFx2Q54XHm67WrU&usqp=CAU" alt="" />
